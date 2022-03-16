@@ -1,9 +1,8 @@
 Personaje
 
 fuerza  = 200
-
-
 velocidad  = 100
 
+aceleracion = 100
 
 destreza  = 50
