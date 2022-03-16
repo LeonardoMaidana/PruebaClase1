@@ -1,4 +1,4 @@
 Enemigo
-vida = 1000
-fuerza = 70
-velocidad = 100
+vida = 2500
+fuerza = 1700
+velocidad = 500
