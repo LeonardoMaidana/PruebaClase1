@@ -1,0 +1,5 @@
+Enemigo
+
+vida = 1000
+fuerza = 70
+velocidad = 100
